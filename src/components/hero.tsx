@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <>
       <div className="flex-box mt-8 pl-20">
-        <img src={HeroImage} />
+        <img src={HeroImage} alt="hero-image" />
       </div>
       <div className="p-10">
         <h1 className="text-5xl font-extrabold"> Online Experience</h1>
